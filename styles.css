@@ -54,9 +54,11 @@ body {
   color: white;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  padding-left: 10px;
 }
 #footer p {
   color: white;
+  padding-left: 10px;
 }
 a {
   color: #1abc9c;
@@ -65,7 +67,7 @@ a {
 a:hover {
   color: #F6A623;
 }
-.post, .about {
+.post, .about{
   max-width: 800px;
   margin: 0 auto;
   padding: 60px 0;
