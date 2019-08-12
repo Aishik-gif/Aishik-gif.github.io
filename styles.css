@@ -7,7 +7,7 @@ body {
 
 #header {
   background-color: #1abc9c;
-  height: 150px;
+  min-height: 150px;
   line-height: 150px;
 }
 #header a {
@@ -41,6 +41,7 @@ body {
 #footer{
   background-color: #2f2f2f;
   padding: 50px 0;
+  min-height: 50px;
 }
 .column {
   min-width: 300px;
